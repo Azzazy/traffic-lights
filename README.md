@@ -16,3 +16,10 @@ The board has a single source of power.
 - Layout design
 - Fabrication
 - Live test
+
+
+## Tools used
+- [KiCAD](http://kicad-pcb.org/download/)
+- [Arduino onlne](https://create.arduino.cc/)
+- [Arduino simulator](https://www.tinkercad.com)
+
