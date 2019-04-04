@@ -23,3 +23,4 @@ The board has a single source of power.
 - [Arduino onlne](https://create.arduino.cc/)
 - [Arduino simulator](https://www.tinkercad.com)
 
+[Simulation](https://www.tinkercad.com/things/bBg1C2l9w1r-incredible-gogo-blorr/editel?tenant=circuits?sharecode=cldi_QaewPRI2rSKSZcavvrZbj1_QljQzdCtH32ZUuQ=)
