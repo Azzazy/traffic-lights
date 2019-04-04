@@ -1,2 +1,18 @@
 # traffic-lights
 Traffic lights demo project for Robotics Club AUC
+
+## Requirments
+An electrical board performing the functionalities of a traffic light. The funcationalities are:
+- Red, Yellow and Green lights alternating in order
+- Pass button to get Red faster
+The board has a single source of power. 
+
+## Design steps
+- System block diagram
+- Psudo code
+- Circuit schematic
+- Code
+- Test setup
+- Layout design
+- Fabrication
+- Live test
