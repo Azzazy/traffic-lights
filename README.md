@@ -23,7 +23,10 @@ The board has a single source of power.
 - [Arduino onlne](https://create.arduino.cc/)
 - [Arduino simulator](https://www.tinkercad.com)
 
-[Simulation](https://www.tinkercad.com/things/bBg1C2l9w1r-incredible-gogo-blorr/editel?sharecode=Yr4FscFQvJzt9poQF2iMoLLDoCD9sWlmrVRPqTrWZGg=)
-[Git 
-course](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
+## Resources
+- [Simulation](https://www.tinkercad.com/things/bBg1C2l9w1r-incredible-gogo-blorr/editel?sharecode=Yr4FscFQvJzt9poQF2iMoLLDoCD9sWlmrVRPqTrWZGg=)
+- [Git course](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
+- [Arduino specs](https://store.arduino.cc/usa/arduino-uno-rev3)
+- [ATMEGA328 datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061A.pdf)
+- [Arduino schematic](https://www.arduino.cc/en/uploads/Main/arduino-uno-schematic.pdf)
 
